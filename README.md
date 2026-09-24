@@ -1,16 +1,24 @@
-## Hi there 👋
+# 🚀 Portfólio de Infraestrutura de TI
 
-<!--
-**fernandodillenburg/fernandodillenburg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu repositório de portfólio! Aqui você encontrará automações, scripts, projetos de arquitetura, documentações e soluções que desenvolvi no meu dia a dia como Analista de Infraestrutura de TI.
 
-Here are some ideas to get you started:
+O objetivo deste espaço é demonstrar na prática como aplico tecnologia para otimizar processos, garantir a estabilidade de ambientes e escalar infraestruturas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+* **Cloud:** AWS, Azure, Google Cloud, Oracle
+* **Virtualização:** VMware, Hyper-V
+* **Containerização & Orquestração:** Docker, Docker Compose, Kubernetes
+* **Automação & Scripting:** Python, Bash, PowerShell
+* **Sistemas Operacionais:** Linux / Windows Server
+* **Monitoramento & Observabilidade:** Zabbix, Prometheus, Grafana
+* **Redes & Segurança:** VPN (OpenVPN), Firewall (MikroTik), Nginx, DNS, SSL/TLS
+
+---
+
+## 📂 Projetos em Destaque
+
+### Em Desenvolvimento ...
+---
